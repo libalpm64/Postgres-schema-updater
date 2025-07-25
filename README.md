@@ -1,4 +1,6 @@
 # Postgres-schema-updater
+<img src="https://tokei.rs/b1/github/libalpm64/Postgres-schema-updater?category=code&style=flat" alt="Lines of Code"/>
+
 Manage PostgreSQL database schema updates without any data loss and easy to use. Update your database easily and backup your database with automatic failover.
 
 ## It includes functionalities such as:
